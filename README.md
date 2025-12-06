@@ -1,6 +1,6 @@
 # DeepML Challenges
 
-This repository contains solutions to various machine learning challenges.
+This repository contains solutions to  [Deep-ML](https://www.deep-ml.com/)'s machine learning challenges.
 
 ## Challenge Results
 
