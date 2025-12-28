@@ -4,8 +4,8 @@ This repository contains solutions to  [Deep-ML](https://www.deep-ml.com/)'s mac
 
 ## Challenge Results
 
-- **Score**: 368
-- **Rank**: 1913
+- **Score**: 403
+- **Rank**: 1661
 
 ## Challenges Completed: 31
 
